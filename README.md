@@ -1,2 +1,2 @@
 # spring-cloud-server
-This is secong git repository
+This is second git repository
